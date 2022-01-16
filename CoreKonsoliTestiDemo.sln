@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreKonsoliTestiDemo", "CoreKonsoliTestiDemo\CoreKonsoliTestiDemo.csproj", "{E0AC5F76-8ABC-4309-A913-A16AF104060F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectLaskuri", "TestProjectLaskuri\TestProjectLaskuri.csproj", "{7BD88329-93A9-4585-8D9F-757C645F9D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0AC5F76-8ABC-4309-A913-A16AF104060F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AC5F76-8ABC-4309-A913-A16AF104060F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AC5F76-8ABC-4309-A913-A16AF104060F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AC5F76-8ABC-4309-A913-A16AF104060F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD88329-93A9-4585-8D9F-757C645F9D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD88329-93A9-4585-8D9F-757C645F9D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD88329-93A9-4585-8D9F-757C645F9D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD88329-93A9-4585-8D9F-757C645F9D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4619CA23-1D3A-4C30-9765-1A58C3EEC19D}
+	EndGlobalSection
+EndGlobal

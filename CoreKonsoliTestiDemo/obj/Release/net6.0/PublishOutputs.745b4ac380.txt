@@ -1,0 +1,5 @@
+C:\Users\Simo Siren\Desktop\CoreKonsoliTestiDemo.exe
+C:\Users\Simo Siren\Desktop\CoreKonsoliTestiDemo.dll
+C:\Users\Simo Siren\Desktop\CoreKonsoliTestiDemo.deps.json
+C:\Users\Simo Siren\Desktop\CoreKonsoliTestiDemo.runtimeconfig.json
+C:\Users\Simo Siren\Desktop\CoreKonsoliTestiDemo.pdb

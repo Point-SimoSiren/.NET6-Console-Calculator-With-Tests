@@ -1,0 +1,15 @@
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\bin\Release\net6.0\CoreKonsoliTestiDemo.exe
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\bin\Release\net6.0\CoreKonsoliTestiDemo.deps.json
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\bin\Release\net6.0\CoreKonsoliTestiDemo.runtimeconfig.json
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\bin\Release\net6.0\CoreKonsoliTestiDemo.dll
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\bin\Release\net6.0\ref\CoreKonsoliTestiDemo.dll
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\bin\Release\net6.0\CoreKonsoliTestiDemo.pdb
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\obj\Release\net6.0\CoreKonsoliTestiDemo.csproj.AssemblyReference.cache
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\obj\Release\net6.0\CoreKonsoliTestiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\obj\Release\net6.0\CoreKonsoliTestiDemo.AssemblyInfoInputs.cache
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\obj\Release\net6.0\CoreKonsoliTestiDemo.AssemblyInfo.cs
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\obj\Release\net6.0\CoreKonsoliTestiDemo.csproj.CoreCompileInputs.cache
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\obj\Release\net6.0\CoreKonsoliTestiDemo.dll
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\obj\Release\net6.0\ref\CoreKonsoliTestiDemo.dll
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\obj\Release\net6.0\CoreKonsoliTestiDemo.pdb
+C:\Koodit\AspNet\CoreKonsoliTestiDemo\CoreKonsoliTestiDemo\obj\Release\net6.0\CoreKonsoliTestiDemo.genruntimeconfig.cache
